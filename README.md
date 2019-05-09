@@ -15,15 +15,15 @@
 This is a : Content Management System like WordPress, Drupal or Joomla Using PHP.
 
 ## Screenshots
-![Example screenshot](./img/Capture.jpeg)
-![Example screenshot](./img/Capture1.jpeg)
-![Example screenshot](./img/Capture2.jpeg)
-![Example screenshot](./img/Capture3.jpeg)
-![Example screenshot](./img/Capture4.jpeg)
-![Example screenshot](./img/Capture5.jpeg)
-![Example screenshot](./img/Capture6.jpeg)
-![Example screenshot](./img/Capture7.jpeg)
-![Example screenshot](./img/Capture8.jpeg)
+![Example screenshot](./img/Capture.JPG)
+![Example screenshot](./img/Capture1.JPG)
+![Example screenshot](./img/Capture2.JPG)
+![Example screenshot](./img/Capture3.JPG)
+![Example screenshot](./img/Capture4.JPG)
+![Example screenshot](./img/Capture5.JPG)
+![Example screenshot](./img/Capture6.JPG)
+![Example screenshot](./img/Capture7.JPG)
+![Example screenshot](./img/Capture8.JPG)
 ## Technologies
 * Tech 1 - php.
 * Tech 2 - bootstrap
